@@ -1,1 +1,1 @@
-# cybersecgoogle-controlaudit
+# Google Cybersecurity Coursera Activity.
